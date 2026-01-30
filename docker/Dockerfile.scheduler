@@ -1,0 +1,6 @@
+
+FROM python:3.10
+WORKDIR /app
+COPY rl_scheduler.py .
+RUN pip install kubernetes stable-baselines3 gym numpy
+CMD ["python","rl_scheduler.py"]
