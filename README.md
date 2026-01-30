@@ -1,6 +1,9 @@
 
 # AI-powered Kubernetes Scheduler
 
+<img width="678" height="442" alt="image" src="https://github.com/user-attachments/assets/deeef7e4-40b1-40ae-bc81-95d0a23f880c" />
+
+
 This repository demonstrates **three AI-specific Kubernetes scheduling approaches**:
 
 1. Reinforcement Learning–based Scheduler (PPO)
