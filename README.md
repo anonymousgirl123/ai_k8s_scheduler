@@ -17,6 +17,7 @@ Pod (schedulerName=ai-scheduler)
    → AI Model
    → Node Binding
 
+
 ## Use cases
 - GenAI / LLM inference
 - Distributed ML training
