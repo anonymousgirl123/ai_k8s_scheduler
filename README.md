@@ -9,7 +9,7 @@ This repository demonstrates **three AI-specific Kubernetes scheduling approache
 2. GPU-aware AI Scheduler (DCGM / Prometheus metrics)
 3. Production-grade Kubernetes Scheduler Plugin (Go)
 
-## Architecture
+## Architecture 
 Pod (schedulerName=ai-scheduler)
    → AI Scheduler
    → Metrics (CPU/GPU/Node)
