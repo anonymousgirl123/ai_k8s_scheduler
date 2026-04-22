@@ -5,7 +5,7 @@
 
 This repository demonstrates **three AI-specific Kubernetes scheduling approaches**:
 
-1. Reinforcement Learning–based Scheduler (PPO)
+1. Reinforcement Learning–based Scheduler (PPO) 
 2. GPU-aware AI Scheduler (DCGM / Prometheus metrics)
 3. Production-grade Kubernetes Scheduler Plugin (Go)
 
